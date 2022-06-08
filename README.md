@@ -8,7 +8,7 @@
 
 - Change value "user01" in playbook file
 
-**Step3: Add public-key file
+**Step3: Add public-key file**
 
 - Change user01.pub with your public-key file
 
